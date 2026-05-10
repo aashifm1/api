@@ -1,0 +1,68 @@
+OpenWeatherMap - https://openweathermap.org/api
+WeatherAPI - https://www.weatherapi.com/
+Open-Meteo - https://open-meteo.com/
+Tomorrow.io - https://www.tomorrow.io/weather-api/
+
+Google AI Studio (Gemini) - https://aistudio.google.com/
+Groq - https://groq.com/
+Hugging Face - https://huggingface.co/inference-api
+Cohere - https://cohere.com/
+Mistral AI - https://mistral.ai/
+OpenRouter - https://openrouter.ai/
+
+CoinGecko API - https://www.coingecko.com/en/api
+Alpha Vantage - https://www.alphavantage.co/
+Finnhub - https://finnhub.io/
+IEX Cloud - https://iexcloud.io/
+FRED API - https://fred.stlouisfed.org/docs/api/fred/
+
+NewsAPI - https://newsapi.org/
+The Guardian API - https://open-platform.theguardian.com/
+NYTimes API - https://developer.nytimes.com/apis
+Mediastack - https://mediastack.com/
+
+TMDB API - https://developer.themoviedb.org/
+OMDb API - https://www.omdbapi.com/
+TVMaze API - https://www.tvmaze.com/api
+Spotify API - https://developer.spotify.com/
+
+Pexels API - https://www.pexels.com/api/
+Unsplash API - https://unsplash.com/developers
+Pixabay API - https://pixabay.com/api/docs/
+Remove.bg API - https://www.remove.bg/api
+
+Google Maps Platform - https://developers.google.com/maps
+Mapbox - https://www.mapbox.com/
+Geoapify - https://www.geoapify.com/
+IP-API - https://ip-api.com/
+
+SendGrid - https://sendgrid.com/
+Mailgun - https://www.mailgun.com/
+Twilio - https://www.twilio.com/
+Resend - https://resend.com/
+
+RAWG API - https://rawg.io/apidocs
+PokeAPI - https://pokeapi.co/
+Steam Web API - https://developer.valvesoftware.com/wiki/Steam_Web_API
+IGDB API - https://api-docs.igdb.com/
+
+Stripe API - https://stripe.com/docs/api
+Razorpay API - https://razorpay.com/docs/api/
+Fake Store API - https://fakestoreapi.com/
+Commerce.js - https://commercejs.com/
+
+JSONPlaceholder - https://jsonplaceholder.typicode.com/
+ReqRes - https://reqres.in/
+HTTPBin - https://httpbin.org/
+Postman Echo - https://postman-echo.com/
+
+Cat Facts API - https://catfact.ninja/
+Dog API - https://dog.ceo/dog-api/
+JokeAPI - https://jokeapi.dev/
+NASA APIs - https://api.nasa.gov/
+
+Public APIs Directory - https://publicapis.io/
+Free APIs IO - https://freeapis.io/
+API Bouncer - https://apibouncer.com/
+API Testing Free - https://apitestingfree.com/
+AI Guerrilla API Directory - https://aiguerrilla.net/api-keys/
