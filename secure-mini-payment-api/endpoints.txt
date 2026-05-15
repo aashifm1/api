@@ -1,0 +1,4 @@
+/register --> user registration
+/login --> user login
+/payment --> payment processing
+/transactions --> transaction history
