@@ -4,7 +4,6 @@
 
 Problem Statement: You are required to design and implement a Secure Mini Payment Backend Service. This service simulates a simplified payment system where users can register, log in, perform payments, and view transaction history.
 
----
 
 ## Tech Stack Used
 
@@ -12,13 +11,11 @@ Problem Statement: You are required to design and implement a Secure Mini Paymen
 - REST API
 - Supabase Database
 
----
 
 ## Tools Used
 
 - Postman (for testing)
 
----
 
 ## Endpoints
 
@@ -28,10 +25,9 @@ The four endpoints implemented in the code
 /register --> user registration
 /login --> user login
 /payment --> payment processing
-/transactions --> transaction history
+/transactions --> transaction-history
 ```
 
----
 
 ## My approach
 
@@ -42,11 +38,8 @@ The four endpoints implemented in the code
 - Rate limiting is implemented as more invalid login attempts (>5) will rate limited as 429.
 - Can able to view the transaction history with authorization only as bearer token generated.
 
----
 
 ## DB Approach
 
 - In supabase database, four tables are created. They are users, sessions, transactions, and attempts.
 - The database table and output images are attached.
-
----
